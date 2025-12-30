@@ -77,7 +77,7 @@ Visit the [Releases page](https://github.com/sams500/SamFileTranslator-Releases/
 请根据您的操作系统和 CPU 架构，在 [Releases 页面](https://github.com/sams500/SamFileTranslator-Releases/releases/) 下载对应的安装包：
 
 - **Windows**: `.exe` (x64 / x86 / Arm64)  
-- **macOS**: `.dmg` (Apple Silicon / Intel)  
+- **macOS**: `.dmg` (Apple Silicon Arm64 / Intel x64)  
 - **Linux**: `.deb`  (x64 / Arm64)
 ---
 
