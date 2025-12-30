@@ -48,11 +48,12 @@ SamFileTranslator 是一款基于 **Material Avalonia** 框架开发的跨平台
 
 | AI Model Selection  AI 模型选型         |
 |----------------------------------------|
-| <img width="450" height="350" alt="AI Interface" src="https://github.com/user-attachments/assets/42bb5fe2-5055-4724-a651-900bb2e2231f" />  <img width="450" height="350" alt="light AI interface" src="https://github.com/user-attachments/assets/8cecff36-ee69-46c7-85cb-6b8ecaffd1e2" /> ｜
+| <img width="600" height="500" alt="AI Interface" src="https://github.com/user-attachments/assets/42bb5fe2-5055-4724-a651-900bb2e2231f" /> |
 
 | Setting Page  设置界面              |               
 |------------------------------------|
-| <img width="500" height="400" alt="settings" src="https://github.com/user-attachments/assets/bc8c1a00-bc1f-4af0-adae-1cf429565900" /> |
+| <img width="600" height="500" alt="settings" src="https://github.com/user-attachments/assets/bc8c1a00-bc1f-4af0-adae-1cf429565900" /> |
+
 ---
 
 ## 📄 Translation Output Examples  翻译输出效果示例
@@ -133,9 +134,11 @@ Visit the [Releases page](https://github.com/sams500/SamFileTranslator-Releases/
 ## 📄 License
 
 Due to personal reason, the source code is not provided. But this project is free for personal and commercial use. Users are responsible for any costs incurred from AI translation services.
+
 Welcome to support the public API key.
 
 ## 📄 许可证
 
 由于个人原因源代码未开放，但本软件免费用于个人与商业用途，使用 AI 翻译服务产生的费用需用户自行承担。
-也非常欢迎支持公益API。
+
+非常欢迎支持公益API。
