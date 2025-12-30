@@ -48,7 +48,7 @@ SamFileTranslator 是一款基于 **Material Avalonia** 框架开发的跨平台
 
 | AI Model Selection  AI 模型选型         |
 |----------------------------------------|
-| <img width="450" height="350" alt="AI Interface" src="https://github.com/user-attachments/assets/42bb5fe2-5055-4724-a651-900bb2e2231f" />  <img width="450" height="350" alt="light AI interface" src="https://github.com/user-attachments/assets/8cecff36-ee69-46c7-85cb-6b8ecaffd1e2" /> ｜
+| <img width="400" height="350" alt="AI Interface" src="https://github.com/user-attachments/assets/42bb5fe2-5055-4724-a651-900bb2e2231f" />  <img width="400" height="350" alt="light AI interface" src="https://github.com/user-attachments/assets/8cecff36-ee69-46c7-85cb-6b8ecaffd1e2" /> ｜
 
 | Setting Page  设置界面              |               
 |------------------------------------|
